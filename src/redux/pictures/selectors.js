@@ -1,1 +1,1 @@
-export const imagesSelector = state => state.images
+export const imagesSelector = state => state.images.images
